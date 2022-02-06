@@ -6,12 +6,16 @@ Folders with `m_` in the beginning of it's name can be installed in Odoo ERP (Ap
 or reproduce it to make your own module.
 
 All snippets that contain block of codes are saved in [snippets folder](https://github.com/altela/odoo-boilerplate/tree/main/snippets).
-
+<br />
+<br />
+<br />
 ### Issues & Improvement
 Please let me know if there's any errors by opening an issue.
 
 Wholeheartedly welcoming pull request for other templates or error fixing.
-
+<br />
+<br />
+<br />
 ### Templates List
 **Template**|**Functionality**
 :-----:|:-----:
