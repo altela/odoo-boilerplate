@@ -1,0 +1,3 @@
+        <header>
+            <button name="button_in_header" type="object" string="Button in Header Example" attrs="{'invisible':['|',('state','!=','cancel')]}"/>
+        </header>

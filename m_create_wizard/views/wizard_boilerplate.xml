@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+
+<record model="ir.ui.view" id="wizard_boilerplate">
+    <field name="name">wizard.boilerplate.view</field>
+    <field name="model">stock.picking</field>
+    <field name="inherit_id" ref="stock.view_picking_form"/>
+    <field name="arch" type="xml">
+
+        <field name="origin" position="after">
+            <div class="o_row">
+                <button name="wiz_open" type="object" string="Wizard Boilerplate Button" class="oe_link oe_read_only"/>
+            </div>
+        </field>
+
+    </field>
+</record>
+
+    </data>
+</odoo>

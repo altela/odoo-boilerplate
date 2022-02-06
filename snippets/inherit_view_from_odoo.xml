@@ -1,0 +1,7 @@
+<record model="ir.ui.view" id="inherit.snippets.example">
+    <field name="name">inherit.snippets.example</field>
+    <field name="model">sale.order</field>
+    <field name="inherit_id" ref="sale.view_order_form"/>
+    <field name="arch" type="xml">
+    </field>
+</record>

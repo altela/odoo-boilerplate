@@ -1,0 +1,3 @@
+        <field name="partner_id" position="attributes">
+            <attribute name="attrs">{'readonly':[('state','in',[])]}</attribute>
+        </field>
