@@ -21,4 +21,5 @@ Wholeheartedly welcoming pull request for other templates or error fixing.
 :-----:|:-----:
 [Create Wizard Menu](https://github.com/altela/odoo-boilerplate/tree/main/m\_create\_wizard)|Create a Wizard menu from a buttonclick.
 [Pre Init Check](https://github.com/altela/odoo-boilerplate/tree/main/m\_pre\_init\_check)|Feature to check ERP compability with your created module
+[Add Tab in Odoo](https://github.com/altela/odoo-boilerplate/tree/main/m_add_newtab)|Create a New Tab inside a view (Also called notebook)
 
