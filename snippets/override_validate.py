@@ -9,5 +9,3 @@ class OverrideValidate(models.Model):
         # Put Your Code Here
             res = super(OverrideValidate, self).process()
         return res
-
-
