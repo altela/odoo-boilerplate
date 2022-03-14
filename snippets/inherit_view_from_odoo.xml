@@ -1,7 +1,10 @@
-<record model="ir.ui.view" id="inherit.snippets.example">
-    <field name="name">inherit.snippets.example</field>
-    <field name="model">sale.order</field>
-    <field name="inherit_id" ref="sale.view_order_form"/>
+<!-- Example of view inheritance from other modules-->
+
+<record model="ir.ui.view" id="inherit.snippets.example"> <!-- give id with your custom id -->
+    <field name="name">inherit.snippets.example</field> <!-- give name with your custom name -->
+    <field name="model">sale.order</field> <!-- The module you wish to inherit -->
+    <field name="inherit_id" ref="sale.view_order_form"/> <!-- The view from main module you wish to inherit -->
     <field name="arch" type="xml">
+        <!-- Insert your custom field -->
     </field>
 </record>
